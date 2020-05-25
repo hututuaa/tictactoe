@@ -1,0 +1,68 @@
+
+.square{
+    width:100px;
+    height: 100px;
+    border: 1px solid #999;
+    outline: none;
+    margin: -5px;
+    background: white;
+    color:#666;
+    font-size: 35px;
+    font-weight: bold;
+    float: left;
+}
+
+.game {
+    width: 1000px;
+    margin: 100px auto;
+    background: whitesmoke;
+    height: 800px;
+    min-height: 800px;
+}
+
+.game-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.game-info {
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.game-info div:first-child {
+    text-align: center!important;
+    font-size: 25px;
+    font-weight: bold;
+    width: 400px;
+    text-align: center;
+}
+
+.game-board {
+    margin-top: 100px;
+}
+
+ol, ul {
+    font-size: 25px;
+}
+
+li button {
+    border: none;
+    background: #7ec2f3;
+    height: 50px;
+    margin-top: 5px;
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    outline: none;
+    width: 100%;
+    cursor: pointer;
+}
+
+.squence {
+    width: 30px!important;
+    background-color: tomato;
+}
+
+/*# sourceMappingURL=main.94e6da6e.css.map*/

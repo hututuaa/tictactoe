@@ -1,0 +1,13 @@
+
+.square{
+    width:100px;
+    height: 100px;
+    border: 1px solid #999;
+    outline: none;
+    margin: -5px;
+    background: white;
+    color:#666;
+    font-size: 35px;
+    font-weight: bold;
+    float: left;
+}
